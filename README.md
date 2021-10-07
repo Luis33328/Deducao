@@ -1,0 +1,2 @@
+# Deducao
+Exercício de dedução
